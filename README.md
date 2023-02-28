@@ -7,8 +7,9 @@ This a Django Rest application for a parcel delivery system covering at least 5 
 2. Django 4.1,
 
 ## Installation
-* 1
+Install using pip... 
 
+``` pip install djangorestframework ```
 
 
 ## Entities:
