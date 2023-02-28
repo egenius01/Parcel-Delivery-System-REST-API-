@@ -30,13 +30,13 @@ Install using pip in terminal...
 
 ``` pip install django djangorestframework ```
 
-> In the Terminal start the server by typing:
+In the Terminal start the server by typing:
 
 > python manage.py runserver
 
->then type enter.
+... then type enter.
 
->Test The Project by typing:
+Test The Project by typing:
 
 > python manage.py test
  
