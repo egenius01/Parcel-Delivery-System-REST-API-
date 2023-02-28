@@ -17,7 +17,7 @@ This a Django Rest application for a parcel delivery system covering at least 5 
 4. Customer can view the status of their parcel using a tracking ID
 5. Customer can update the delivery address of their parcel
 
-#Getting Started
+# Getting Started
 
 ## Requirements
 
